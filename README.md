@@ -4,6 +4,8 @@
 
 A web control panel for Laragon local development environment, providing site management, server information monitoring, and PHP environment detection capabilities.
 
+![screenshot](https://github.com/99839/Laragon-simple-index.php/blob/main/screenshot.png)
+
 ## Features
 
 ### 1\. Site Management
