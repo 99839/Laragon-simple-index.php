@@ -39,11 +39,13 @@ A web control panel for Laragon local development environment, providing site ma
 
 ## Directory Structure
 
+```
 /
 ├── index.php              # Main program file
 ├── project-directories/   # Site directories in Laragon
 ├── asset/                 # Assets directory (ignored)
 └── vendor/                # Dependencies directory (ignored)
+```
 
 
 ## Configuration
